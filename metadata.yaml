@@ -1,0 +1,39 @@
+_repo: Scrambled-Eggs_74733
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+creator:
+  author:
+    agent_name: Mackall, Lawton
+    alias: Mackall, Alexander Lawton
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '41826'
+    url: http://www.gutenberg.org/2009/agents/41826
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Lawton_Mackall
+description: ''
+gutenberg_issued: '2024-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74733'
+language: en
+pgterms:marc905: 20170515141110mackall
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: David Edwards and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aCincinnati :$bSteward & Kidd Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Scrambled Eggs
+url: http://www.gutenberg.org/ebooks/74733
