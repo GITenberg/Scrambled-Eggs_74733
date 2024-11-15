@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24852'
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: archival
+  image_path: 74733-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackall, Lawton
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41826
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Lawton_Mackall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74733#Scrambled-Eggs
 gutenberg_issued: '2024-11-13'
 gutenberg_type: Text
 identifiers:
